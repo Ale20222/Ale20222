@@ -22,10 +22,8 @@ s
 ### 💻 Programming Languages & Core
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
 
 ### 📊 Frontend, Data & Tools
-![SQL](https://img.shields.io/badge/SQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![PowerBI](https://img.shields.io/badge/Power_BI-f2c811?style=for-the-badge&logo=powerbi&logoColor=000)
@@ -39,16 +37,9 @@ s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale20222&layout=compact&theme=visual_studio_dark&langs_count=7" alt="Most Used Languages" height="192px"/>
 </p>
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ale20222&theme=visual_studio_dark" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balejandracf)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balejandracf)](https://www.linkedin.com/in/alejandra-corredor-fula-recursos-humanos-desarrollo-web/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balejandracf@gmail.com)
 
-👁️ **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Ale20222&color=3178c6&style=flat-square)
