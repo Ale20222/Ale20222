@@ -37,9 +37,16 @@ s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale20222&layout=compact&theme=visual_studio_dark&langs_count=7" alt="Most Used Languages" height="192px"/>
 </p>
 
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ale20222&theme=visual_studio_dark" alt="GitHub Streak" />
+</p>
+
+---
 
 ## 🌐 Connect with me
 
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balejandracf)](https://www.linkedin.com/in/alejandra-corredor-fula-recursos-humanos-desarrollo-web/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alejandra-corredor-fula-recursos-humanos-desarrollo-web/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balejandracf@gmail.com)
 
+👁️ **Profile Views:** ![Views](https://komarev.com/ghpvc/?username=Ale20222&color=3178c6&style=flat-square)
