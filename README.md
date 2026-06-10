@@ -30,20 +30,6 @@ s
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ale20222&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Alejandra's GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ale20222&layout=compact&theme=visual_studio_dark&langs_count=7" alt="Most Used Languages" height="192px"/>
-</p>
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ale20222&theme=visual_studio_dark" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/alejandra-corredor-fula-recursos-humanos-desarrollo-web/))
