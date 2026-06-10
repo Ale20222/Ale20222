@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer | Java Developer in training 🇨🇴
 
-[cite_start]I'm a Junior Full-Stack Developer focused on building efficient, user-centric digital solutions[cite: 2, 6]. [cite_start]With a background in psychology and organizational processes, I combine logical problem-solving with a deep understanding of user behavior to create impactful software[cite: 2, 4, 6].
+I'm a Junior Full-Stack Developer focused on building efficient, user-centric digital solutions[cite: 2, 6]. [cite_start]With a background in psychology and organizational processes, I combine logical problem-solving with a deep understanding of user behavior to create impactful software.
 
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNzNHk2N2hyYmNzZ3c2eTV1eGh1YjlyNXQ5dms0dDZldndjeG54YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNVWeKWyh2p026Or91/giphy.gif
 ---
