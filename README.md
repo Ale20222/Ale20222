@@ -6,11 +6,11 @@ I'm a Junior Full-Stack Developer focused on building efficient, user-centric di
 
 ## 🚀 About Me
 
-- [cite_start]💻 **Junior Full-Stack Developer** passionate about software architecture and clean code[cite: 2, 6].
-- [cite_start]⚡ **Tech Background:** Currently enhancing my skills in Java and backend fundamentals through Generation Colombia[cite: 6, 9].
-- [cite_start]🧠 **Analytical Mindset:** Experienced in data tracking, metrics analysis, and process optimization[cite: 4, 5].
-- [cite_start]🎯 **My Goal:** To build technology that improves human experiences and solves real-world business problems[cite: 6].
-- [cite_start]📍 Based in Bogotá, Colombia[cite: 3].
+💻 **Junior Full-Stack Developer** passionate about software architecture and clean code.
+⚡ **Tech Background:** Currently enhancing my skills in Java and backend fundamentals through Generation Colombia.
+🧠 **Analytical Mindset:** Experienced in data tracking, metrics analysis, and process optimization.
+🎯 **My Goal:** To build technology that improves human experiences and solves real-world business problems.
+📍 Based in Bogotá, Colombia.
 
 ---
 
